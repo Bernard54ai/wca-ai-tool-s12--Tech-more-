@@ -1,0 +1,11 @@
+{
+    "reply": "Successfully set stock for Sugar to 50 packets.",
+    "inventory": {
+        "sugar": {
+            "quantity": 50,
+            "unit": "packets"
+        }
+    },
+    "low_stock": [],
+    "success": true
+}
