@@ -1,0 +1,48 @@
+Duka Stock Advisor
+An Intelligent Shop Management Assistant
+
+Duka Stock Advisor is an AI-powered shop management assistant designed to help small business owners manage their inventory and make better stock-management decisions.
+
+Live Demonstration
+
+Try the application here:
+
+Open Duka Stock Advisor
+
+Note: The demonstration link is temporary and depends on the Google Colab session remaining active.
+
+Project Objectives
+Help shop owners manage their stock.
+Provide advice on when to reorder products.
+Reduce overstocking and stock shortages.
+Support better shop-management decisions.
+Help small retailers improve business operations.
+Technologies Used
+Python
+Google Gemini API
+Gradio
+Google Colab
+GitHub
+How It Works
+A user enters a shop-management question.
+The application sends the question to Google's Gemini AI.
+Gemini generates a response.
+The application displays practical advice to the user.
+Example Questions
+How can I manage my shop stock?
+When should I reorder sugar?
+How can I avoid overstocking?
+How can I increase profits in my shop?
+Project Developer
+
+Developed as a demonstration project.
+
+Future Improvements
+Product registration.
+Automatic low-stock alerts.
+Sales tracking.
+Profit calculations.
+Inventory management dashboard.
+link https://05872b523086c31d48.gradio.live
+https://05872b523086c31d48.gradio.live
+Duka Stock Advisor – Smarter Stock Management for Small Businesses.
